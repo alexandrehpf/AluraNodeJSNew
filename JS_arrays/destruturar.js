@@ -14,5 +14,5 @@ function exibeNomeENota(aluno) {
     }
 }
 
-exibeNomeENota('Caio');
+exibeNomeENota('Juliana');
 exibeNomeENota('Alexandre');
